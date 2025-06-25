@@ -1,3 +1,8 @@
+@font-face
+{
+   font-family: "Britannic Bold";
+   src: url('britanic.ttf') format('truetype');
+}
 h1, .h1
 {
    font-family: Arial;
